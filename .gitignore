@@ -1,0 +1,9 @@
+### Removing Compilation Files ###
+*.o
+*.lst
+*.map
+*.axf
+*.uv*
+*.lnp
+*.tra
+*.build_log.htm

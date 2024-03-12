@@ -1,0 +1,14 @@
+.\img.o: Images\Img.c
+.\img.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\img.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\img.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\img.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\img.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\img.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\img.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\img.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\img.o: Images\../GLCD/GLCD.h
+.\img.o: Images\../timer/timer.h
+.\img.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\img.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\img.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
