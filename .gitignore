@@ -3,7 +3,6 @@
 *.lst
 *.map
 *.axf
-*.uv*
 *.lnp
 *.tra
 *.build_log.htm
