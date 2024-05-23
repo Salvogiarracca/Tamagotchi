@@ -1,5 +1,5 @@
 # Tamagotchi 2022-2023
-Computer Architecture project inspired to Tamagotchi game, for **LPC1768** Development Board (LandTiger)
+Computer Architecture project inspired to Tamagotchi game, for **LandTiger** Development Board (LPC1768 microcontroller)
 
 ## Requirements
 - MDK-Arm (Keil μVision 5)
